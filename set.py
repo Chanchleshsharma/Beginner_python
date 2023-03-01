@@ -94,7 +94,7 @@ print(set2)
 #########
 
 
-set1._hash(460)
-print(set1)
+# set1._hash(460)
+# print(set1)
 
   

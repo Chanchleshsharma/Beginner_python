@@ -17,3 +17,4 @@ def is_leap(n):
     return False
 year= int(input("Enter Your Year:"))
 print(is_leap(year))
+
